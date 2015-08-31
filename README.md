@@ -4,6 +4,13 @@ Whatsapp like implementation for emjoicons which appear as a popup over the  sof
 
 ![Screenshot](/sample.png?raw=true)
 
+## Available on JCenter & Maven
+```
+dependencies {
+    compile 'com.github.bliveinhack:emotion:1.0.0@aar';
+}
+```
+
 ## Example
 
 UPDATE: An example project has been made.
