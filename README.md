@@ -1,3 +1,5 @@
+
+
 ## Emojicon
 
 Whatsapp like implementation for emjoicons which appear as a popup over the  soft keyboard
@@ -10,6 +12,8 @@ dependencies {
     compile 'com.github.bliveinhack:emotion:1.0.0@aar';
 }
 ```
+[ ![Download](https://api.bintray.com/packages/bliveinhack/maven/Android-Emoticons-Library/images/download.svg) ](https://bintray.com/bliveinhack/maven/Android-Emoticons-Library/_latestVersion)
+
 
 ## Example
 
